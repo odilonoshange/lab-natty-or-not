@@ -23,19 +23,63 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de ilustração (personalizada).
+Tema central:
+O cotidiano de uma menina baiana que descobre o poder da palavra — seja em pequenas conversas com amigos, brincadeiras de rua ou falas sobre respeito e igualdade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Seedream 4.0
+Reve AI
+Google Whisk
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+Etapa 1 — Definição de contexto narrativo
+
+    Vamos responder a algumas perguntas para criar a base da história da personagem:
+
+    Quem ela é? (nome, idade aproximada, traços de personalidade)
+
+    Onde ela vive? (cidade moderna, vila mágica, escola futurista etc.)
+
+    Qual é o objetivo dela na história? (o que ela busca, quer descobrir, conquistar ou entender?)
+
+    Qual é o tom da narrativa? (aventura, descoberta, cotidiano leve, ficção científica, emocional, etc.)
+
+    Estilo visual desejado: manter o mesmo estilo 3D Pixar-like ou quer testar variações (ex: stylized realism, toon shading etc.)?
+
+Etapa 2 — Storytelling visual
+
+    Com isso definido, montamos um storyboard em 3–5 cenas, cada uma com foco em:
+
+    Pose/emotion: o que ela está sentindo ou fazendo
+
+    Cenário/luz: ambiente que apoia a emoção (ex: luz quente para acolhimento, fria para tensão)
+
+    Câmera: tipo de enquadramento (close-up, plano médio, plano geral)
+
+Exemplo:
+
+    Cena	Situação	Emoção	Cenário	Enquadramento
+    1	Ela encontra algo misterioso no chão	Curiosidade	Rua ao entardecer	Close-up nos olhos curiosos
+    2	Segue uma pista por um beco iluminado por neon	Determinação	Cidade futurista	Plano médio de costas
+    3	Descobre algo incrível	Encantamento	Espaço aberto e luminoso	Plano americano, contraluz
+Etapa 3 — Consistência visual
+
+    Para manter coerência:
+
+    Paleta: cores dominantes fixas (ex: tons quentes de pele, cabelo castanho médio, luz dourada ou azulada).
+
+    Luz: mantenha um esquema de iluminação recorrente.
+
+    Expressões: use uma escala emocional contínua — curiosidade → medo → descoberta → alegria.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Hoje 15-Out-2025, a IA está conseguindo entregar coisas Natty sim, isso é bom, realmente incrível pois demostra claramente a evolução.
 ```
 
 ### Exemplos e Insigths
