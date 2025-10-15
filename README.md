@@ -75,9 +75,9 @@ Etapa 3 — Consistência visual
     Expressões: use uma escala emocional contínua — curiosidade → medo → descoberta → alegria.
 
 ## 🚀 Resultados
-    [01](https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_32b78df3f3832eb8a5b49a8a865adb71eg.png)
-    [02](https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_c21d6e3f717c5d8837e4212ef6c52fcadr.jpeg)
-    [03](https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_qgnxq2ylbzn5cdz40sz5ygotetyzqtl5gjzx0iy.jpeg)
+    01 https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_32b78df3f3832eb8a5b49a8a865adb71eg.png
+    02 https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_c21d6e3f717c5d8837e4212ef6c52fcadr.jpeg
+    03 https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_qgnxq2ylbzn5cdz40sz5ygotetyzqtl5gjzx0iy.jpeg
 
 ## 💭 Reflexão (Opcional)
 Hoje 15-Out-2025, a IA está conseguindo entregar coisas Natty sim, isso é bom, realmente incrível pois demostra claramente a evolução.
