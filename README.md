@@ -60,11 +60,10 @@ Etapa 2 — Storytelling visual
     Câmera: tipo de enquadramento (close-up, plano médio, plano geral)
 
 Exemplo:
-
-    Cena	Situação	Emoção	Cenário	Enquadramento
     1	Ela encontra algo misterioso no chão	Curiosidade	Rua ao entardecer	Close-up nos olhos curiosos
     2	Segue uma pista por um beco iluminado por neon	Determinação	Cidade futurista	Plano médio de costas
     3	Descobre algo incrível	Encantamento	Espaço aberto e luminoso	Plano americano, contraluz
+
 Etapa 3 — Consistência visual
 
     Para manter coerência:
@@ -76,7 +75,9 @@ Etapa 3 — Consistência visual
     Expressões: use uma escala emocional contínua — curiosidade → medo → descoberta → alegria.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+    https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_32b78df3f3832eb8a5b49a8a865adb71eg.png
+    https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_c21d6e3f717c5d8837e4212ef6c52fcadr.jpeg
+    https://github.com/odilonoshange/lab-natty-or-not/blob/main/Whisk_qgnxq2ylbzn5cdz40sz5ygotetyzqtl5gjzx0iy.jpeg
 
 ## 💭 Reflexão (Opcional)
 Hoje 15-Out-2025, a IA está conseguindo entregar coisas Natty sim, isso é bom, realmente incrível pois demostra claramente a evolução.
